@@ -1,0 +1,8 @@
+C:\Users\55419\source\repos\JurosCompostoConsole\JurosCompostoConsole\bin\Debug\JurosCompostoConsole.exe.config
+C:\Users\55419\source\repos\JurosCompostoConsole\JurosCompostoConsole\bin\Debug\JurosCompostoConsole.exe
+C:\Users\55419\source\repos\JurosCompostoConsole\JurosCompostoConsole\bin\Debug\JurosCompostoConsole.pdb
+C:\Users\55419\source\repos\JurosCompostoConsole\JurosCompostoConsole\obj\Debug\JurosCompostoConsole.csproj.AssemblyReference.cache
+C:\Users\55419\source\repos\JurosCompostoConsole\JurosCompostoConsole\obj\Debug\JurosCompostoConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\55419\source\repos\JurosCompostoConsole\JurosCompostoConsole\obj\Debug\JurosCompostoConsole.csproj.CoreCompileInputs.cache
+C:\Users\55419\source\repos\JurosCompostoConsole\JurosCompostoConsole\obj\Debug\JurosCompostoConsole.exe
+C:\Users\55419\source\repos\JurosCompostoConsole\JurosCompostoConsole\obj\Debug\JurosCompostoConsole.pdb
